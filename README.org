@@ -1,6 +1,15 @@
 README
 
-This is the amo-up-top-version-info add-on.  It contains:
-- A program in [[lib/main.js]].
-- A library in [[data/duplicate-version-info.js]].
-- Some meager documentation. (Actually less than meager.)
+When browsing the add-ons in the [[https://addons.mozilla.org][AMO site]], the version information for the add-on will appear in the add-on summary. This [[http://mzl.la/IcojkS][restartless]] add-on for [[http://bit.ly/HzqbTy][Firefox]] is functional excluding the theming functionality. The theme preference is currently ignored.
+
+As this is my first Firefox add-on, I'd appreciate any helpful comments.
+
+The most obvious improvement is to migrate off of the incredibly large and inflexible [[https://wiki.mozilla.org/Jetpack][Jetpack]]. I'll do that when I learn about writing Firefox add-ons.
+
+This repository contains:
+- A program in [[https://github.com/Neil-Smithline/amo-up-top-version-info/blob/master/lib/main.js][lib/main.js]].
+- A library in [[https://github.com/Neil-Smithline/amo-up-top-version-info/blob/master/lib/main.js][data/duplicate-version-info.js]].
+- Some meager documentation. Actually, meager would be an improvement.
+- The add-on that can be installed from  [[https://github.com/Neil-Smithline/amo-up-top-version-info/raw/master/amo-up-top-version-info.xpi][amo-up-top-version-info.xpi]].
+
+# LocalWords:  restartless
