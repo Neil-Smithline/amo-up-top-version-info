@@ -1,0 +1,15 @@
+{
+    "name": "amo-up-top-version-info", 
+    "license": "MPL 2.0", 
+    "author": "", 
+    "version": "0.1", 
+    "fullName": "AMO Up Top Version Info", 
+    "id": "amo.uptopversioninfo", 
+    "description": "Include version information about an AMO add-on in the summary box. The version information is highlighted in a blue box. You can set the color theme below to one of \"Red\", \"Green\", \"Gray\", \"Orange\" or \"Blue\". If the theme is blank, has an illegal value, or the add-on's theme support is broken (as it is now), the theme will default to \"Orange\".",
+    "preferences": [{
+        "title": "Theme",
+        "name": "amo.uptopversioninfo.theme",
+        "type": "string",
+        "value": "Orange"
+    }]
+}

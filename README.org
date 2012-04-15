@@ -1,0 +1,6 @@
+README
+
+This is the amo-up-top-version-info add-on.  It contains:
+- A program in [[lib/main.js]].
+- A library in [[data/duplicate-version-info.js]].
+- Some meager documentation. (Actually less than meager.)
