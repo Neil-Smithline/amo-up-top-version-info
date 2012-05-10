@@ -10,6 +10,8 @@ This repository contains:
 - A program in [[https://github.com/Neil-Smithline/amo-up-top-version-info/blob/master/lib/main.js][lib/main.js]].
 - A library in [[https://github.com/Neil-Smithline/amo-up-top-version-info/blob/master/lib/main.js][data/duplicate-version-info.js]].
 - Some meager documentation. Actually, meager would be an improvement.
-- The add-on that can be installed from  [[https://github.com/Neil-Smithline/amo-up-top-version-info/raw/master/amo-up-top-version-info.xpi][amo-up-top-version-info.xpi]].
+- The add-on that can be installed from [[https://github.com/Neil-Smithline/amo-up-top-version-info/raw/master/amo-up-top-version-info.xpi][amo-up-top-version-info.xpi]].
+
+You can see this add-on operate immediately by installing it from [[https://github.com/Neil-Smithline/amo-up-top-version-info/raw/master/amo-up-top-version-info.xpi][amo-up-top-version-info.xpi]] and then visiting this [[http://bit.ly/JkzybP][extension homepage]].
 
 # LocalWords:  restartless
